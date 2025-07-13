@@ -1,5 +1,5 @@
 # Hello, I'm MEHAKABDULLAH 👋
-A passionate Mern Stack Developer from pakistan :emoji_name🇵🇰
+A passionate Mern Stack Developer from pakistan
 
 ## About Me
 - 🔭 I’m currently complete mern from SMIT.
